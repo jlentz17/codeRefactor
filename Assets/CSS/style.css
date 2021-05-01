@@ -87,6 +87,9 @@ p {
   background-color: #2589bd;
 }
 
+/* Added sub-benifit-items class to consoloidate
+ */
+
 .sub-benefit-items {
   margin-bottom: 32px;
   color: #ffffff;
@@ -102,6 +105,8 @@ p {
   margin: 10px auto;
   max-width: 150px;
 }
+
+/* added services class to consolidate */
 
 .services {
   margin-bottom: 20px;

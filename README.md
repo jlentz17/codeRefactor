@@ -4,7 +4,7 @@ Landing page for the Horiseon company
 
 ## Description
 
-Refactored HTML and CSS for marketing agency and updated code to follow accessibility standards and improve upon search engine optimization.
+Refactored HTML and CSS for marketing agency and updated code to follow accessibility standards and improve upon search engine optimization. As well as linked stylesheets and made sure formatting was correct.
 
 ### Installing
 
@@ -14,6 +14,8 @@ branch: main
 #### Published On
 
 Project url : https://jlentz17.github.io/codeRefactor/
+
+Screenshots of Website : ![Getting Started]()
 
 ## Author
 
