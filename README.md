@@ -15,7 +15,7 @@ branch: main
 
 Project url : https://jlentz17.github.io/codeRefactor/
 
-Screenshots of Website : ![Getting Started]()
+Screenshots of Website : ![Getting Started](./Assets/images/ScreenShot1.png)
 
 ## Author
 
